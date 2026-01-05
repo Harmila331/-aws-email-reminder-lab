@@ -1,2 +1,7 @@
-# aws-email-reminder-lab
-AWS Email Reminder application using SES, Lambda, Step Functions, API Gateway, and S3
+# AWS Email Reminder Lab
+
+### Step 1: Login to AWS Console
+- Logged in to AWS Management Console
+- Selected region us-east-1
+
+![AWS Login](screenshots/step1-login.png)
