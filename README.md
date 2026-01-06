@@ -19,3 +19,11 @@
 - Clicked Identities section from Configuration menu
 
 ![SES Console Home](screenshots/step3-ses-home.png)
+
+### Step 4: Create Identity Section
+- Opened Configuration → Identities in Amazon SES
+- Clicked Create identity button
+- Ready to add my email for verification
+
+![Create Identity](screenshots/step4-ses-identities.png)
+
