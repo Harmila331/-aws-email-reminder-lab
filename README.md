@@ -27,3 +27,9 @@
 
 ![Create Identity](screenshots/step4-ses-identities.png)
 
+### Step 5: Add Email Address
+- Selected Identity type as Email address
+- Entered awshands.onlab@gmail.com
+- Clicked Create identity for email verification
+- 
+![Create Email Identity](screenshots/step5-create-email-identity.png)
