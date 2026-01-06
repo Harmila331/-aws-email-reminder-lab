@@ -12,3 +12,10 @@
 - Confirmed region us-east-1
 
 ![SES Console](screenshots/step2-ses.png)
+
+### Step 3: SES Console Home
+- Opened Amazon SES console
+- Viewed SES home dashboard
+- Clicked Identities section from Configuration menu
+
+![SES Console Home](screenshots/step3-ses-home.png)
